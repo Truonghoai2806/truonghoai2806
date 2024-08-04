@@ -1,5 +1,5 @@
-## Hi there 👋
-Tôi là Trương Quang Hoài - web development
+## Xin chào👋
+Tôi là Trương Quang Hoài - Web development
 <!--
 **Truonghoai2806/truonghoai2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
